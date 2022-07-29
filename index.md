@@ -5,4 +5,4 @@
 
 [<font face="GEORGIA">Zhaohui Wen’s Homepage</font>](http://zhaohuiwen.top)
 
-<font face="GEORGIA" font size ="2">Copyright 2022 © Zhaohui Wen</font>
+<font face="GEORGIA" font size ="2" color="purple">Copyright 2022 © Zhaohui Wen</font>
